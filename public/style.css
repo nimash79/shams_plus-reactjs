@@ -1,0 +1,1114 @@
+.sample_farsi_digits {
+  font-feature-settings: "ss01";
+}
+.sample_tabular_numbers {
+  font-feature-settings: "tnum";
+}
+.sample_ss01_tnum {
+  font-feature-settings: "ss01", "tnum";
+}
+@font-face {
+  font-family: Sahel;
+  src: url("assets/fonts/sahel/Farsi-Digits-Without-Latin/Sahel.woff2")
+    format("woff2");
+  font-weight: normal;
+}
+@font-face {
+  font-family: Sahel;
+  src: url("assets/fonts/sahel/Farsi-Digits-Without-Latin/Sahel-Bold.woff2")
+    format("woff2");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Sahel;
+  src: url("assets/fonts/sahel/Farsi-Digits-Without-Latin/Sahel-Light-FD-WOL.woff2")
+    format("woff2");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: Sahel;
+  src: url("assets/fonts/sahel/Farsi-Digits-Without-Latin/Sahel-SemiBold.woff2")
+    format("woff2");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: Sahel;
+  src: url("assets/fonts/sahel/Farsi-Digits-Without-Latin/Sahel-Black.woff2")
+    format("woff2");
+  font-weight: 900;
+}
+@font-face {
+  font-family: VazirCode;
+  src: url("assets/fonts/vazircode/Vazir-Code-Extra-Height-FD-WOL.woff")
+    format("woff");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: VazirCodeHack;
+  src: url("assets/fonts/vazircode/Vazir-Code-Hack-Extra-Height-FD-WOL.woff")
+    format("woff");
+  font-weight: normal;
+}
+@font-face {
+  font-family: Vazirmatn FD;
+  src: url("assets/fonts/VazirFD/Vazirmatn-FD-Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn FD;
+  src: url("assets/fonts/VazirFD/Vazirmatn-FD-ExtraLight.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn FD;
+  src: url("assets/fonts/VazirFD/Vazirmatn-FD-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn FD;
+  src: url("assets/fonts/VazirFD/Vazirmatn-FD-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn FD;
+  src: url("assets/fonts/VazirFD/Vazirmatn-FD-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn FD;
+  src: url("assets/fonts/VazirFD/Vazirmatn-FD-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn FD;
+  src: url("assets/fonts/VazirFD/Vazirmatn-FD-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn FD;
+  src: url("assets/fonts/VazirFD/Vazirmatn-FD-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn FD;
+  src: url("assets/fonts/VazirFD/Vazirmatn-FD-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Vazirmatn;
+  src: url("assets/fonts/vazir/Vazirmatn-Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Vazirmatn;
+  src: url("assets/fonts/vazir/Vazirmatn-Regular.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("assets/fonts/vazir/Vazirmatn-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("assets/fonts/vazir/Vazirmatn-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("assets/fonts/vazir/Vazirmatn-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("assets/fonts/vazir/Vazirmatn-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("assets/fonts/vazir/Vazirmatn-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("assets/fonts/vazir/Vazirmatn-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("assets/fonts/vazir/Vazirmatn-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+:root {
+  --black: black;
+  --bg: #3e3c3f;
+  --dark: #252525;
+  --orange: #ca7502;
+  --active: yellow;
+  --guide: #2d6232;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  direction: rtl;
+  font-family: Vazirmatn, Vazirmatn FD, VazirCode, VazirCodeHack, Sahel;
+  background-color: var(--bg);
+}
+input {
+  font-family: Vazirmatn;
+}
+input[type="submit"],
+button {
+  cursor: pointer;
+}
+.num {
+  font-family: Vazirmatn FD;
+}
+
+ul li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+/* mt=margin-top */
+.mt {
+  margin-top: 25px;
+}
+.header {
+  background-color: #252525;
+  width: 100%;
+  height: 80px;
+  padding: 0 15px;
+  position: fixed;
+  top: 0;
+  z-index: 2;
+  border: 3px solid rgba(125, 57, 8, 0.3);
+}
+.header a {
+  color: #e0670e;
+  transition-duration: 1s;
+}
+.header a:hover {
+  color: darkcyan;
+}
+.header .header__inner {
+  display: flex;
+  justify-content: space-between;
+}
+.header .main-menu {
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+}
+.header .main-menu .logo {
+  position: relative;
+}
+.header .main-menu .logo::before {
+  content: "";
+  position: absolute;
+  border-left: 1px solid #e0670e;
+  padding: 37px;
+  margin-right: 20px;
+  transform: skew(-35deg);
+  -webkit-transform: skew(-35deg);
+  -moz-transform: skew(-35deg);
+  -ms-transform: skew(-35deg);
+  -o-transform: skew(-35deg);
+}
+.header .main-menu .logo img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  margin: 2px 0;
+}
+.header .main-menu .logo a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+.header .main-menu .menu ul {
+  display: flex;
+  gap: 40px;
+}
+.header .main-menu .menu ul li a::before {
+  content: "";
+  position: absolute;
+  top: 0px;
+  border-left: 1px solid #e0670e;
+  padding: 37px;
+  transform: skew(-35deg);
+  -webkit-transform: skew(-35deg);
+  -moz-transform: skew(-35deg);
+  -ms-transform: skew(-35deg);
+  -o-transform: skew(-35deg);
+}
+.header .main-menu .menu ul li:nth-child(1) a::before {
+  content: "";
+  position: absolute;
+  margin-right: 15px;
+}
+.header .main-menu .menu ul li:nth-child(2) a::before {
+  content: "";
+  position: absolute;
+  margin-right: 10px;
+}
+.header .main-menu .menu ul li:nth-child(3) a::before {
+  content: "";
+  position: absolute;
+  margin-right: -5px;
+}
+.header .main-menu .menu ul li:nth-child(4) a::before {
+  content: "";
+  position: absolute;
+  margin-right: 30px;
+}
+.header .coin img {
+  width: 500px;
+  height: 85px;
+}
+.header .forms .forms__login-register a {
+  border: 1px solid #e0670e;
+  padding: 5px 10px;
+}
+.banner {
+  padding-top: 60px;
+}
+.banner img {
+  width: 100%;
+  height: 400px;
+}
+.footer {
+  display: flex;
+  background-color: #252525;
+  border: 3px solid rgba(125, 57, 8, 0.4);
+  font-family: Vazirmatn FD;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+.footer .row .col-md-4 ul {
+  display: flex;
+  gap: 50px;
+  padding: 10px;
+  padding-bottom: 2px;
+}
+.footer .row .col-md-4 ul li {
+  display: flex;
+}
+.footer .row .col-md-4 ul li div a {
+  display: block;
+  color: #fff;
+  padding: 5px 0;
+  transition-duration: 1s;
+}
+.footer .row .col-md-4 ul li div a:hover {
+  color: #e0670e;
+}
+.footer .row .col-md-4 ul li div h3 {
+  color: #e0670e;
+}
+
+.register {
+  padding-top: 9px;
+  margin: 10vh auto;
+  width: 600px;
+  height: 490px;
+  position: relative;
+  /* overflow: hidden; */
+}
+
+.register-bg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.register-form-1 {
+  margin: 70px 30%;
+}
+
+.register-form-2 {
+  margin: 70px 30%;
+}
+
+.register-form-3 {
+  margin: 50px 20%;
+}
+
+.input-form {
+  position: relative;
+  border: 2px solid #252525;
+  border-radius: 5px;
+  width: 230px;
+  height: 35px;
+  margin: 30px 0;
+}
+
+.input-form label {
+  position: absolute;
+  top: -10px;
+  right: 10px;
+  font-size: 12px;
+  background-color: #ca7502;
+  padding: 0 5px;
+}
+
+.input-form input,
+.input-form select {
+  width: 100%;
+  height: 100%;
+  outline: none;
+  border: none;
+  background-color: transparent;
+  padding: 0 10px;
+  color: #4d4827;
+}
+
+.input-form select {
+  font-family: VazirMatn;
+  width: 90%;
+}
+
+.input-form input[type="number"]::-webkit-inner-spin-button,
+.input-form input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.input-form input[type="password"] {
+  padding-left: 20px;
+}
+
+.input-form i {
+  position: absolute;
+  top: 7px;
+  left: 5px;
+  z-index: 100;
+}
+
+.input-form .disable {
+  color: gray;
+  cursor: not-allowed;
+}
+
+.level-box {
+  position: absolute;
+  right: 50px;
+  bottom: 30px;
+  border: 2px solid #252525;
+  padding: 1px 15px;
+}
+
+.submit-button {
+  outline: none;
+  border: none;
+  background-color: #252525;
+  border-radius: 5px;
+  padding: 5px 25px;
+  color: white;
+  transition-duration: 1s;
+}
+
+.submit-button:hover {
+  background-color: #2d6232;
+}
+
+.register-submit {
+  position: absolute;
+  bottom: 30px;
+  left: 50px;
+}
+
+.half-circle {
+  background-color: var(--dark);
+  width: 100px;
+  height: 50px; /* as the half of the width */
+  border-bottom-left-radius: 110px; /* 100px of height + 10px of border */
+  border-bottom-right-radius: 110px; /* 100px of height + 10px of border */
+  border-top: 0;
+  color: white;
+  text-align: center;
+  padding-top: 5px;
+}
+
+.register-title {
+  margin: 17px auto;
+}
+
+.register-image-input {
+  display: flex;
+  margin: 20px 0;
+}
+
+.register-image-input p {
+  margin-bottom: 10px;
+}
+
+.register-image-input label {
+  cursor: pointer;
+  background: linear-gradient(var(--dark), #2b43a2);
+  font-size: 12px;
+  padding: 3px 35px;
+  word-spacing: 3px;
+  border-radius: 4px;
+  color: white;
+}
+
+.register-image-input input {
+  opacity: 0;
+  position: absolute;
+  z-index: -1;
+}
+
+.register-image-input > div {
+  width: 50%;
+}
+
+.register-image-input .image-container {
+  float: left;
+  border: 1px solid var(--dark);
+  width: 170px;
+  height: 100px;
+  position: relative;
+}
+
+.register-image-input .image-container span {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 12px;
+  padding: 38px 0;
+  color: rgb(190, 223, 217);
+  z-index: -1;
+}
+
+.register-image-input img {
+  width: 100%;
+  height: 100%;
+}
+
+.login {
+  margin: 10vh auto;
+  width: 600px;
+  height: 490px;
+  position: relative;
+  overflow: hidden;
+}
+
+.login-bg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.login-form {
+  margin: 30px 30%;
+  position: relative;
+}
+
+.login-form form {
+  position: relative;
+}
+
+.login-submit {
+  margin-top: -10px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.login-submit .submit-button {
+  width: 100px;
+}
+
+.checkbox-input {
+  display: flex;
+  align-items: center;
+}
+
+.checkbox-input input {
+  opacity: 0;
+  position: absolute;
+}
+
+.checkbox-input label {
+  font-size: 12px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.checkbox {
+  min-width: 1em;
+  min-height: 1em;
+  margin-right: 1em;
+  border: 2px solid var(--dark);
+  border-radius: 3px;
+  display: inline-block;
+  margin-left: 5px;
+}
+
+.checkbox-input input[type="checkbox"]:checked + label .checkbox {
+  background: var(--bg);
+}
+
+.login-links > div {
+  margin: 13px 0;
+  font-size: 12px;
+}
+
+.login-links a {
+  color: var(--dark);
+  transition-duration: 1s;
+}
+
+.login-links a:hover {
+  color: rgb(59, 194, 214);
+}
+
+.login-links span {
+  margin-right: 10px;
+}
+
+.login-form-separator {
+  border-color: var(--dark);
+}
+
+.send-sms {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  padding: 0 10px;
+}
+
+.required-button {
+  outline: none;
+  border: 1px solid var(--dark);
+  border-radius: 4px;
+  background-color: #548235;
+  font-family: VazirMatn;
+  font-size: 12px;
+  padding: 2px 15px;
+}
+
+.forget-password-form-1 {
+  margin: 30px 30%;
+}
+
+.forget-password-form-2 {
+  margin: 50px 30%;
+}
+
+.user-panel {
+  background-color: var(--orange);
+  position: relative;
+  /* overflow: hidden; */
+  margin: 12vh auto;
+  width: 800px;
+  height: 450px;
+  border-radius: 7px;
+}
+
+.user-panel-container {
+  display: flex;
+  height: 96%;
+}
+
+.side-bar {
+  width: 25%;
+  border-left: 2px solid var(--dark);
+  margin-top: 20px;
+}
+
+.side-bar .item {
+  margin: 10px 10%;
+  border-bottom: 2px solid var(--dark);
+  padding: 0 20px;
+  padding-bottom: 5px;
+}
+
+.side-bar .item:nth-child(1) {
+  margin-top: 0;
+}
+
+.side-bar .item a,
+.side-bar .item i {
+  transition-duration: 1s;
+}
+
+.side-bar .item a {
+  font-size: 14px;
+  margin-right: 12px;
+  color: var(--dark);
+}
+
+.side-bar .active a,
+.side-bar .active i,
+.side-bar .item:hover a,
+.side-bar .item:hover i {
+  color: var(--active);
+}
+
+.side-bar .disable a,
+.side-bar .disable i,
+.side-bar .disable:hover a,
+.side-bar .disable:hover i {
+  color: gray;
+}
+
+.side-bar .disable,
+.side-bar .disable a {
+  cursor: not-allowed;
+}
+
+.user-panel-title {
+  position: absolute;
+  right: 52%;
+  width: 130px;
+  height: 40px;
+}
+
+.user-panel .content {
+  width: 70%;
+  border-bottom: 2px solid var(--dark);
+  padding: 8% 5%;
+  position: relative;
+  transition-duration: 1s;
+}
+
+.change-password-form {
+  display: flex;
+  justify-content: center;
+}
+
+.guide {
+  background-color: var(--guide);
+  border-radius: 4px;
+  padding: 5px;
+  color: white;
+  font-size: 12px;
+}
+
+.guide p {
+  border-bottom: 2px dashed var(--dark);
+  padding-bottom: 5px;
+}
+
+.form-submit {
+  text-align: left;
+}
+
+.credit-card {
+  background: url("./assets/images/card-bg.png");
+  height: 250px;
+  background-color: #c6e0b5;
+  border-radius: 40px;
+  position: relative;
+  border: 1px solid var(--dark);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.credit-card img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.credit-card .balance {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  font-size: 13px;
+}
+
+.credit-card .cvv2 {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  font-size: 13px;
+}
+
+.credit-card .expire-date {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  font-size: 13px;
+}
+
+.credit-card .info {
+  font-size: 13px;
+  text-align: center;
+}
+
+.pin2-input {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: -30px;
+}
+
+.pin2-button {
+  margin-right: 10px;
+}
+
+.button {
+  outline: none;
+  border: none;
+  color: white;
+  padding: 3px 25px;
+  border-radius: 5px;
+  background: linear-gradient(#252525, #2b43a2);
+  font-family: VazirMatn;
+  transition-duration: 1s;
+}
+
+.button:hover {
+  background: linear-gradient(#50747c, #2b43a2);
+  border-radius: 10px;
+  color: black;
+}
+
+.icon-click {
+  color: rgb(59, 194, 214);
+  cursor: pointer;
+}
+
+.transactions-filter > div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.transactions-filter .input-form {
+  margin: 10px 0;
+}
+
+.transactions-table {
+  height: 250px;
+  max-height: 250px;
+  overflow-y: auto;
+}
+
+.transactions-table table {
+  width: 100%;
+  font-size: 13px;
+}
+
+.transactions-table td,
+.transactions-table th {
+  width: 25%;
+  border: 2px solid var(--dark);
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  padding-top: 3px;
+  height: 30px;
+  text-align: center;
+}
+
+.transactions-table tr {
+  display: block;
+}
+
+::-webkit-scrollbar {
+  width: 5px; /* width of the entire scrollbar */
+}
+::-webkit-scrollbar-track {
+  background: var(--dark); /* color of the tracking area */
+}
+::-webkit-scrollbar-thumb {
+  background-color: goldenrod; /* color of the scroll thumb */
+  border-radius: 4px; /* roundness of the scroll thumb */
+}
+
+.calendar-wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+.calendar {
+  font-size: 8px !important;
+  position: absolute;
+}
+
+.welcome {
+  background-color: rgb(53, 131, 74);
+  border-radius: 7px;
+  text-align: center;
+  color: #f0f0f0e3;
+  font-size: 14px;
+  padding: 5px 0;
+  margin-bottom: 20px;
+}
+
+.dashboard-1 {
+  background-color: #3D3D3D;
+  border-radius: 7px;
+  padding: 10px;
+  color: #F0F0F0;
+  font-size: 12px;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.dashboard-1 > div {
+  width: 50%;
+  padding: 1px 5px;
+}
+
+.dashboard-1 > div:nth-child(1) {
+  border-left: 2px solid #4371C2;
+}
+
+.dashboard-1 .title {
+  padding-bottom: 5px;
+  border-bottom: 2px solid #4371C2;
+  padding-right: 5px;
+}
+
+.dashboard-1 .title span {
+  margin-right: 5px;
+}
+
+.statuses-body > div:nth-child(1) {
+  background-color: #4371C2;
+  width: 120px;
+  height: 40px; /* as the half of the width */
+  border-bottom-left-radius: 70px; /* 100px of height + 10px of border */
+  border-top-left-radius: 70px; /* 100px of height + 10px of border */
+  border-top: 0;
+  color: white;
+  text-align: center;
+  padding-top: 5px;
+}
+
+.statuses-body > div:nth-child(2) {
+  background-color: #4371C2;
+  width: 120px;
+  height: 40px; /* as the half of the width */
+  border-bottom-right-radius: 70px; /* 100px of height + 10px of border */
+  border-top-right-radius: 70px; /* 100px of height + 10px of border */
+  border-top: 0;
+  color: white;
+  text-align: center;
+  padding-top: 5px;
+  float: left
+}
+
+.statuses-body {
+  padding-top: 10px;
+  font-size: 11px;
+}
+
+.statuses-body div p:nth-child(1) {
+  margin-bottom: 2px;
+}
+
+
+.dashboard-2 {
+  background-color: #3D3D3D;
+  border-radius: 7px;
+  padding: 10px;
+  color: #F0F0F0;
+  font-size: 12px;
+  display: flex;
+}
+
+.dashboard-2 > div {
+  width: 50%;
+  padding: 1px 5px;
+}
+
+.account-overview {
+  border-left: 2px solid #4371C2;
+}
+
+.dashboard-2 .title {
+  padding-bottom: 5px;
+  border-bottom: 2px solid #4371C2;
+  padding-right: 5px;
+}
+
+.dashboard-2 .title span {
+  margin-right: 5px;
+}
+
+.account-overview-body {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 3px;
+}
+
+.account-overview-body > div {
+  background-color: #4371C2;
+  border-radius: 5px;
+  width: 47%;
+  text-align: center;
+  font-size: 11px;
+}
+
+.account-overview-body > div > * {
+  margin: 5px 0;
+}
+
+.red {
+  color: rgb(230, 65, 65);
+}
+
+.green {
+  color: rgb(70, 196, 70);
+}
+
+.transactions-overview-body {
+  padding: 10px 3px;
+}
+
+.transactions-overview table {
+  width: 100%;
+}
+
+.transactions-overview-body table td {
+  padding-bottom: 3px
+}
+
+.transactions-overview-body table td:nth-child(2) {
+  text-align: center;
+}
+
+.transactions-overview-body table td:nth-child(3) {
+  text-align: left;
+}
+
+.contact-us {
+  margin: 70px;
+  line-height: 30px;
+}
+
+.about-us {
+  margin: 30px 70px;
+  line-height: 30px;
+  overflow-y: scroll;
+  max-height: 420px;
+  color:rgb(178, 211, 246)
+}
+
+.questions {
+  margin: 30px 70px;
+  line-height: 30px;
+  overflow-y: scroll;
+  max-height: 420px;
+  color:rgb(178, 211, 246)
+}
+
+.introduction {
+  display: flex;
+  justify-content: space-between;
+  /* background-color: #D95F12; */
+  background: linear-gradient(#D95F12, #F6A04B)
+}
+
+.introduction img {
+  width: 50%;
+  aspect-ratio: 1/1;
+  border-radius: 8px;
+}
+
+.introduction p {
+  padding: 50px;
+  font-size: 20px;
+  line-height: 40px;
+  letter-spacing: 1px;
+}
+
+.bottom-slider {
+  width: 60%;
+  margin: 20px 20%;
+}
+
+.bottom-slider-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--orange);
+  border-radius: 5px;
+  width: 200px;
+  height: 100px;
+}
